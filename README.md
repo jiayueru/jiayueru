@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi there! I'm Yueru Jia.
-🎓 BSc in Yuanpei College, Peking University
-💻 MSc in Computer Science, Peking University (1st year)
-🔍 Interested in Embodied AI and Generative Models
-🛠️ Working on Robotics Vision Encoder Pre-training
-📧 Email: jiayueru@stu.pku.edu.cn
-🐦 Twitter: @JiaYueru68071
+👋 Hi there! I'm Yueru Jia.  
+🎓 BSc in Yuanpei College, Peking University  
+💻 MSc in Computer Science, Peking University (1st year)  
+🔍 Interested in Embodied AI and Generative Models  
+🛠️ Working on Robotics Vision Encoder Pre-training  
+📧 Email: jiayueru@stu.pku.edu.cn  
+🐦 Twitter: @JiaYueru68071  
