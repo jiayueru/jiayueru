@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 🎓 BSc in Yuanpei College, Peking University  
 💻 MSc in Computer Science, Peking University (1st year)  
 🔍 Interested in Embodied AI and Generative Models  
-🛠️ Working on Robotics Vision Encoder Pre-training  
 🌐 Personal Website: [https://jiayueru.github.io/](https://jiayueru.github.io/)  
 📧 Email: jiayueru@stu.pku.edu.cn  
 🐦 Twitter: @JiaYueru68071  
